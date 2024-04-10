@@ -5,7 +5,7 @@ function HistoryTab() {
     <div className="tab">
       <h2>History</h2>
       <div className="detail-item">
-        <label>History Tracking:</label>
+        <label>History:</label>
         <input type="text" />
       </div>
     </div>
